@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d63aa03b-f578-4e4e-8061-20bff3509ad3" name="Changes" comment="Exercici4">
-      <change afterPath="$PROJECT_DIR$/src/Exercici5.java" afterDir="false" />
+    <list default="true" id="d63aa03b-f578-4e4e-8061-20bff3509ad3" name="Changes" comment="Exercici5">
+      <change afterPath="$PROJECT_DIR$/src/Curso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,13 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686154173052</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Exercici5">
+      <created>1686155721719</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686155721719</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercici2" />
     <MESSAGE value="Exercici3" />
     <MESSAGE value="Exercici4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercici4" />
+    <MESSAGE value="Exercici5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercici5" />
   </component>
 </project>
